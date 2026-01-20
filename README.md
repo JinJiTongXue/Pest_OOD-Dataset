@@ -32,7 +32,7 @@ Both datasets contain **13 pest categories**.
 
 The following figure shows the class-wise sample distribution of the source (IP102-13) and target (Pest-OOD) datasets.
 
-![Class distribution of IP102-13 and Pest-OOD](figures/class_distribution.png)
+![Class distribution of IP102-13 and Pest-OOD](figures/class_distribution.png.png)
 ---
 
 ## 📂 Directory Structure
